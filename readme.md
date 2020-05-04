@@ -1,6 +1,9 @@
 ## project is not released (yet)
 # but is bring worked on atm
 
+### bugs
+- positions
+- more...
 ```js
  isProjectReleased = false
 ```
