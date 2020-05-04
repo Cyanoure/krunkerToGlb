@@ -1,3 +1,10 @@
+## project is not released (yet)
+# but is bring worked on atm
+
+```js
+ isProjectReleased = false
+```
+
 ```js
 import * as THREE from "https:/threejs.org/build/three.module.js";
 import {GLTFExporter} from "https://threejs.org/examples/jsm/exporters/GLTFExporter.js"
